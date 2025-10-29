@@ -1,3 +1,7 @@
 {"session_id": "user-session-1", "user_input": "which year did india get independence", "assistant_response": " ", "timestamp": "2025-10-24T16:47:00.302850"}
 {"session_id": "user-session-1", "user_input": "give the year", "assistant_response": " India gained independence in 1947. ", "timestamp": "2025-10-24T16:47:08.872955"}
 {"session_id": "user-session-1", "user_input": "who is the father of that nation", "assistant_response": "  The father of the nation in India is Mahatma Gandhi.  ", "timestamp": "2025-10-24T16:47:28.122730"}
+{"session_id": "user-session-1", "user_input": "hello", "assistant_response": "Hello! How can I assist you today?", "timestamp": "2025-10-29T10:56:47.251377"}
+{"session_id": "user-session-1", "user_input": "my name is deepak", "assistant_response": "Nice to meet you, Deepak! How can I help you today?", "timestamp": "2025-10-29T10:56:58.926691"}
+{"session_id": "user-session-1", "user_input": "who won the world cup in 2022", "assistant_response": "The FIFA World Cup in 2022 was won by Argentina. They defeated France in the final match on December 18, 2022, with a score of 4-2 in a penalty shootout after a 3-3 draw in regular and extra time. This was Argentina's third World Cup victory.", "timestamp": "2025-10-29T10:57:15.226368"}
+{"session_id": "user-session-1", "user_input": "what is my name", "assistant_response": "Your name is Deepak.", "timestamp": "2025-10-29T10:57:23.273130"}
