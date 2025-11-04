@@ -25,7 +25,7 @@ if not api_key:
 # 2. Initialize model
 # ----------------------------------------------------------
 llm = ChatOpenAI(
-    model="mistralai/devstral-small-2505:free",
+    model="meta-llama/llama-3.3-8b-instruct:free",
     temperature=0.7,
     api_key=api_key,
     base_url=base_url,
